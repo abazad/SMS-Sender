@@ -3,7 +3,7 @@ SMS-Sender
 
 Send SMS from PC with usb modem
 
-<img src="http://i.imgur.com/qRyNsDE.png" />
+<img src="http://i.imgur.com/8sjZWqW.png" />
 
 <h2><a name="require" class="anchor" href="#about"><span class="mini-icon mini-icon-link"></span></a>REQUIRE</h2>
 * Sqlite - http://www.sqlite.org/
