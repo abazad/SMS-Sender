@@ -32,7 +32,7 @@
 #define MSG_ERR_PHONE_MSG "User phone or message empty!!"
 #define MSG_ERR_SMS_SEND_FAIL "SMS message send fail!!"
 #define MSG_ABOUT_TITLE "About"
-#define MSG_ABOUT_CONTENT "Powered by Rchockxm\r\n\r\nE-Mail: rchockxm.silver@gmail.com\r\nWebsiye: rchockxm.com"
+#define MSG_ABOUT_CONTENT "Powered by Rchockxm\r\n\r\nE-Mail: rchockxm.silver@gmail.com\r\nWebsite: rchockxm.com"
 #define MSG_EXIT_TITLE "Exit"
 #define MSG_EXIT_WITH_JOBMAN "Jobman is running!! Really want to exit?"
 #define DLG_FILE_OPEN "Open xml file"
