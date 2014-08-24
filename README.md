@@ -13,4 +13,4 @@ Send SMS from PC with usb modem
 * CommonEx.dll
 
 <h2><a name="author" class="anchor" href="#author"><span class="mini-icon mini-icon-link"></span></a>AUTHOR</h2>
-* 2013 rchockxm (rchockxm.silver@gmail.com)
+* 2014 rchockxm (rchockxm.silver@gmail.com)
