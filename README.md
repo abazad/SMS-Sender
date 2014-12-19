@@ -5,10 +5,17 @@ Send SMS from PC with usb modem
 
 <img src="http://i.imgur.com/8sjZWqW.png" />
 
-<h2><a name="require" class="anchor" href="#about"><span class="mini-icon mini-icon-link"></span></a>REQUIRE</h2>
+<h2><a name="dataf" class="anchor" href="#dataf"><span class="mini-icon mini-icon-link"></span></a>Data Format</h2>
+
+```xml
+<?xml version="1.0" encoding="UTF-8"?>
+<root><sms id="0" phone="0000000000" loca="886">Mr. Gibbs, hi there..</sms><sms id="1" phone="0000000000" loca="886">Mr. Mcgee, hello.</sms></root>
+```
+
+<h2><a name="require" class="anchor" href="#require"><span class="mini-icon mini-icon-link"></span></a>REQUIRE</h2>
 * Sqlite - http://www.sqlite.org/
 
-<h2><a name="runtime" class="anchor" href="#about"><span class="mini-icon mini-icon-link"></span></a>RUNTIME</h2>
+<h2><a name="runtime" class="anchor" href="#runtime"><span class="mini-icon mini-icon-link"></span></a>RUNTIME</h2>
 * sqlite3.dll
 * CommonEx.dll
 
