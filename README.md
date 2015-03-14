@@ -21,7 +21,10 @@ Send SMS from PC with usb modem
 
 <h2><a name="build" class="anchor" href="#build"><span class="mini-icon mini-icon-link"></span></a>Build</h2>
 
-
+- Download SQLite <a href="https://sqlite.org/download.html">here</a> (Source code and binary DLL)
+- Download Pelles C <a href="http://www.pellesc.de/index.php?page=download&lang=en&version=8.00">here</a>
+- Enable "Microsoft extensions" and "Undecorate exported __stdcall functions" options in Pelles C project settings
+- Build it
 
 <h2><a name="author" class="anchor" href="#author"><span class="mini-icon mini-icon-link"></span></a>Author</h2>
 * 2014 rchockxm (rchockxm.silver@gmail.com)
