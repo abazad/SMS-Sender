@@ -3,6 +3,8 @@ SMS-Sender
 
 Send SMS from PC with usb modem
 
+<img src="https://img.shields.io/badge/license-GPL%20v2-blue.svg" />
+
 <img src="http://i.imgur.com/8sjZWqW.png" />
 
 <h2><a name="dataf" class="anchor" href="#dataf"><span class="mini-icon mini-icon-link"></span></a>Data Format</h2>
